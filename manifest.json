@@ -1,0 +1,10 @@
+{
+  "name": "Cashier Skate",
+  "short_name": "Cashier Skate",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06091a",
+  "theme_color": "#06091a",
+  "lang": "ar",
+  "dir": "rtl"
+}
