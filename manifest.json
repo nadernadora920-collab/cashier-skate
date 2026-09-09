@@ -1,6 +1,7 @@
 {
   "name": "Cashier Skate",
   "short_name": "Cashier Skate",
+  "description": "تطبيق كاشير لإدارة مبيعات الاسكيت والتذاكر والنقدية.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#06091a",
