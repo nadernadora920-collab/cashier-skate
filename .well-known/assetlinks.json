@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nadernadora920_collab.twa",
+      "sha256_cert_fingerprints": [
+        "5D:EE:B2:C6:94:A6:F4:D3:2C:EC:66:0B:4E:1A:20:E8:80:A3:43:C0:CB:A3:D8:43:A3:1B:CD:90:8A:CC:91:EB"
+      ]
+    }
+  }
+]
